@@ -1,0 +1,32 @@
+exemple
+========================================================
+author: 
+date: 
+autosize: true
+
+
+First summary data
+========================================================
+this presentation uses kntir
+
+```{r echo=TRUE}
+dim(mtcars)
+names(mtcars)
+
+```
+
+
+
+First plot
+========================================================
+
+```{r}
+plot(mtcars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
